@@ -1,0 +1,15 @@
+#AppBar {
+    background-color: orange;
+}
+
+#Link {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#CardMedia {
+    display: inline-block;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}

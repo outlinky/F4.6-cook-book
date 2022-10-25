@@ -1,0 +1,6 @@
+env
+WorldCooking_Backend/.idea
+world-cooking-frontend/node_modules
+world-cooking-frontend/.idea
+world-cooking-frontend/readme_md
+world-cooking-frontend/.gitignore
